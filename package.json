@@ -1,0 +1,14 @@
+{
+  "name": "cypress-apitest",
+  "version": "1.0.0",
+  "description": "Testes de API com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Nelson",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
